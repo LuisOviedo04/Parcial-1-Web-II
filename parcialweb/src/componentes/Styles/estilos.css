@@ -1,0 +1,82 @@
+.cuerpo {
+    background: #231400;
+    position: relative;
+    width: 720px;
+    height: 720px;
+    left: 323px;
+    right: 323px;    
+}
+.imag_principal {
+    width: 720px;
+    height: 360px;
+}
+.c_text1 {    
+    position: absolute; 
+    height: 30px;
+    width: 100%;
+    top: 10px;
+}
+.text1 {
+    font-family: 'Rubik', sans-serif;
+    color: #856c3f;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 1px 1px 0px black;
+}
+.cuadro {
+    position: absolute;
+    width: 720px;
+    top: 360px;
+    height: 360px;
+}
+.miguel {    
+    position: absolute;
+    height: 260px;
+    width: 30%;
+}
+.c_texto2 {
+    position: absolute;
+    height: 260px;
+    width: 100%; 
+}
+.text2 {
+    font-family: 'Rubik', sans-serif;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 1px 1px 0px black;
+}
+.c_texto2_1 {
+    position: absolute;
+    height: 100px;
+    width: 100%;
+    top: 110px;
+}
+.c_texto2_2 {
+    position: absolute;
+    height: 50px;
+    width: 100%;
+    top: 200px;
+}
+.text3 {
+    font-family: 'Rubik', sans-serif;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 1px 1px 0px black;
+}
+.fuego {
+    position: absolute;
+    height: 80px;
+    width: 100%;
+    top: 280px;
+}
+.cuadro_2 {
+    position: absolute;
+    height: 360px;
+    width: 70%;
+    left: 216px;
+}
