@@ -13,9 +13,9 @@ class First extends React.Component{
             <body>
                 <div className="cuerpo">
                     <div className="imag_principal">
-                        <a>
-                            <img src={ima} height="360px" width="720px" alt="imagen principal"/>
-                        </a>
+                        <div>
+                            <img src={ima} height="360px"  width="720px" alt="imagen principal"/>
+                        </div>
                     </div>
                     <div className="cuadro">
                         <div className="cuadro_2">
@@ -41,17 +41,17 @@ class First extends React.Component{
                             </div>
                         
                         <div className="fuego">
-                            <a>
+                            <div>
                                 <img src={fuego} height="80px" width="540px" alt="fuego"/>
-                            </a>
+                            </div>
                         </div>
                     </div>
                 </div>
                 
                 <div className="miguel">
-                    <a>
+                    <div>
                         <img src={miguel} height="360px" width="190px" alt="Personaje"/>
-                    </a>
+                    </div>
                 </div>
             </div>
             </div>                
