@@ -60,13 +60,13 @@ class App extends React.Component{
                       <div className="form-group">
                         <label>ID de jugador </label>
                         <input onClick={this.handleClick} 
-                        className="form-control" type="text" name="Primer nombre"/>
+                        className="form-control" type="text" name="ID de jugador"/>
                       </div>
 
                       <div className="form-group2">
                         <label>Correo en el juego </label>
                         <input onClick={this.handleClick} 
-                        className="form-control" type="text" name="Correo"/>
+                        className="form-control" type="text" name="Correo del juego"/>
                       </div>
                       <button onClick={this.handleClick} className="btn btn-primary">
                         Enviar
